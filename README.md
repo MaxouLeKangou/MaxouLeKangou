@@ -10,7 +10,7 @@
 
 ### Mes statistiques:
 <a href="https://github.com/MaxouLeKangou/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxouLeKangou&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues,contribs" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxouLeKangou&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxouLeKangou&show_icons=true&theme=tokyonight" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxouLeKangou&layout=compact&theme=tokyonight" />
 </a>
 
 
