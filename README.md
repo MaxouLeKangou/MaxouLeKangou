@@ -12,10 +12,11 @@
 <img title="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img title="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img title="VueJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
-<img title="Nuxt3" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nuxt_Green_Icon_%282023%29.svg/640px-Nuxt_Green_Icon_%282023%29.svg.png" />
+<img title="NuxtJS" width="40px" src="https://nuxt.com/assets/design-kit/icon-green.svg" />
 <img title="PocketBase" width="40px" src="https://seeklogo.com/images/P/pocketbase-logo-CA73994F09-seeklogo.com.png" />
 <img title="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img title="Supabase" width="40px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" />
+<img title="Sanity" width="40px" src="https://icon.icepanel.io/Technology/svg/Sanity.svg" />
 <img title="PrismicCMS" width="40px" src="https://seeklogo.com/images/P/prismic-logo-F6A173E6D0-seeklogo.com.png" />
 </div>
 
